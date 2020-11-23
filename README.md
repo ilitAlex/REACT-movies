@@ -9,6 +9,7 @@ Techologies used:
 
 The task:
 
-to get Movielist from hemoviedb.org, parse it and emplement to React SPA
-create 'live' list of favorite movies to watch (add and remove movies from this list)
-like or dislike movies
+- to get Movielist from themoviedb.org, 
+- parse it and emplement to React SPA,
+- create 'live' list of favorite movies to watch (add and remove movies from this list),
+- like or dislike movies
